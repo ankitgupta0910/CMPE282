@@ -3,7 +3,7 @@ var mysql = require('mysql');
 
 function getConnection(){
 	var connection = mysql.createConnection({
-	    host     : 'techspartans.c1d5rowcx4kr.us-west-2.rds.amazonaws.com',
+	    host     : 'xxxxxxxxxxxxxxxxxxxxxxxx.us-west-2.rds.amazonaws.com',
 	    user     : 'root',
 	    password : 'TechSpartans123',
 	    database : 'classicmodels',
